@@ -1,16 +1,14 @@
-### Hi there 👋
+## About me
 
-<!--
-**kc3724/kc3724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Kenzie. I'm an MLIS student at Drexel University trying GitHub for the first time! 
+I work in resource sharing at a major research library and want to get into digital humanities. 
+In my free time I love to read and bake! 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Topics of Interest
+
+* digital-preservation: **[bodleian/image-processing](https://github.com/bodleian/image-processing)**
+* data-curation: **[cernopendata/data-curation](https://github.com/cernopendata/data-curation)**
+
+
+
